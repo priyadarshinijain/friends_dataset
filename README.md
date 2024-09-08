@@ -9,3 +9,9 @@ Key Features:
 - Interactive Dashboards: Facilitates user engagement with real-time data exploration and insights.
 
   This project was an incredible learning experience, and I’m grateful for the opportunity to apply and expand my Tableau skills.
+
+Key Insights:
+
+1) It took 28 directors to create this masterpiece.
+2) Episode 18 of season 10 has the highest rating of 9.7 .
+3) Debuting in 1994 with an 8.1 rating, this show tickled our funny bones for a solid decade, keeping us giggling until 2004.
