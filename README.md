@@ -1,17 +1,38 @@
-# friends_dataset
-A tableau representation of a comic masterpiece "F.R.I.E.N.D.S" . 
-Project Overview:
-Objective: To create an interactive dashboard that visualizes top rating and most watched episode and highest rated episode with lil description of the episode. 
+# F.R.I.E.N.D.S Dataset 🎬📊  
+*A Tableau Representation of the Comic Masterpiece*
 
-Key Features:
-- Dynamic Filters: Allows users to drill down by episode and check all the information related to episode.
-- Custom Visualizations: Implemented a combination of bar charts, word cloud, and box-and-whiskers plots to provide a comprehensive view.
-- Interactive Dashboards: Facilitates user engagement with real-time data exploration and insights.
+---
 
-  This project was an incredible learning experience, and I’m grateful for the opportunity to apply and expand my Tableau skills.
+## 📌 **Project Overview**
 
-Key Insights:
+**Objective**:  
+To create an **interactive dashboard** that visualizes the top-rated, most-watched episodes, and the highest-rated episodes of the iconic show, F.R.I.E.N.D.S, along with brief descriptions of each episode.
 
-1) It took 28 directors to create this masterpiece.
-2) Episode 18 of season 10 has the highest rating of 9.7 .
-3) Debuting in 1994 with an 8.1 rating, this show tickled our funny bones for a solid decade, keeping us giggling until 2004.
+---
+
+## 🔑 **Key Features**
+
+- **Dynamic Filters**:  
+  Enables users to drill down by episode, offering detailed information about each one.
+
+- **Custom Visualizations**:  
+  Implemented a combination of:
+  - **Bar Charts** for episode ratings
+  - **Word Clouds** for memorable moments
+  - **Box-and-Whiskers Plots** to show rating distributions and outliers
+
+- **Interactive Dashboards**:  
+  Encourages user interaction for **real-time data exploration** and insights.
+
+> This project was an incredible learning experience, allowing me to apply and expand my Tableau skills.
+
+---
+
+## 🔍 **Key Insights**
+
+1. 🎥 **28 directors** contributed to crafting this comic masterpiece.
+2. 🌟 **Episode 18 of Season 10** holds the highest rating with a whopping **9.7**.
+3. 📅 F.R.I.E.N.D.S debuted in **1994** with an impressive rating of **8.1**, tickling our funny bones until **2004**.
+
+4. 
+Thank you for visiting this project! Feel free to explore and interact with the dashboard.
